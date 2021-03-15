@@ -2,3 +2,4 @@ node_modules
 .rts2_cache_cjs
 main.*
 *.log
+/target

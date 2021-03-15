@@ -10,10 +10,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@trashhalo/cheerio": "1.0.0-rc.5",
-    "microbundle": "^0.13.0",
-    "node-fetch": "^2.6.1",
-    "node-html-markdown": "^0.1.5",
-    "underscore": "^1.6.0"
+    "microbundle": "^0.13.0"
   }
 }
